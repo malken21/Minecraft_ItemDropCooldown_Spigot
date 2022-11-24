@@ -1,0 +1,4 @@
+name: ItemDropCooldown
+version: '${version}'
+main: marumasa.item_drop_cooldown.minecraft
+api-version: 1.19
